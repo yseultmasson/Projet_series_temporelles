@@ -9,9 +9,9 @@ Données : série temporelle mensuelle de l'IPI de la fabrication de prduits lai
 # 1. Les données
 
 1.1 Mise en forme de la série
--Suppression d'éléments non pertinents
--Création de nouvelles variables utiles
--Visualisation de la série mise en forme
+  -Suppression d'éléments non pertinents
+  -Création de nouvelles variables utiles
+  -Visualisation de la série mise en forme
 
 1.2 Transformation de la série
 -Régression linéaire (mise en évidence de l'existence d'une tendance linéaire croissante)
