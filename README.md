@@ -8,7 +8,7 @@ Données : série temporelle mensuelle de l'IPI de la fabrication de prduits lai
 
 # 1. Les données
 
-1.1 Mise en forme de la série
+## 1.1 Mise en forme de la série
 
 -Suppression d'éléments non pertinents
 
