@@ -4,7 +4,7 @@ Matthieu Bricaire - Yseult Masson
 
 Projet mené dans le cadre de la deuxième année du cycle ingénieur de l'ENSAE Paris.
 
-Données : série temporelle mensuelle de l'IPI de la fabrication de prduits laitiers en France, de janvier 1990 à février 2022
+Données : série temporelle mensuelle de l'IPI de la fabrication de produits laitiers en France, de janvier 1990 à février 2022
 
 # 1. Les données
 
